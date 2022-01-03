@@ -1,0 +1,28 @@
+h1{
+    text-align:center ;
+    color:white;
+}
+h2{
+    text-align-last: left;
+    color:white;
+
+}
+h3{
+    color: white;
+    font-size: x-large;
+}
+p{
+    text-decoration-style: dotted;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+    font-style: normal;
+    font-stretch: wider;
+    line-height: 1.7;
+    
+    color:white;
+}
+body{
+    background-image:url("images/m4.jpg");
+           background-size:cover;
+           background-repeat: no-repeat;
+}
